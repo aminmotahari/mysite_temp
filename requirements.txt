@@ -1,0 +1,9 @@
+Django==3.2.4
+asgiref
+pytz
+sqlparse
+pillow
+django-robots
+django-debug-toolbar
+django-taggit
+django-sumernote
